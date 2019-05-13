@@ -1,5 +1,5 @@
 # Data-Science-Projects
 
-These are some of my data science projects.
+This filefolder is used to display some of my data science projects.
 
 Thanks.
